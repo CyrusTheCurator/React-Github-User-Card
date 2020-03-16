@@ -25,7 +25,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="App">
-        <header>our header</header>
+        <header>Your Github User-Card</header>
         <UserCard
           infoObj={this.state.infoObj}
           followers={this.state.followers}
