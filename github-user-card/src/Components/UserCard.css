@@ -1,0 +1,22 @@
+body {
+  background-color: slategray;
+}
+
+.cardContainer {
+  background-color: aquamarine;
+  display: flex;
+  width: 25vw;
+  height: 25vh;
+  margin: auto;
+  margin-top: 5vh;
+  padding: 25px;
+  border: cadetblue solid 3px;
+  border-radius: 2.5%;
+  font-size: 1.5em;
+  align-items: center;
+  flex-direction: column;
+}
+
+.username {
+  font-weight: 750;
+}
